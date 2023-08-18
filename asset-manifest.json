@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/gitex/static/css/main.b41ebb00.css",
-    "main.js": "/gitex/static/js/main.08280c3f.js",
+    "main.js": "/gitex/static/js/main.fa3b0d13.js",
     "static/js/787.98ac93bb.chunk.js": "/gitex/static/js/787.98ac93bb.chunk.js",
-    "static/media/irvins-logo.png": "/gitex/static/media/irvins-logo.7f683840c67912b69993.png",
     "index.html": "/gitex/index.html",
     "main.b41ebb00.css.map": "/gitex/static/css/main.b41ebb00.css.map",
-    "main.08280c3f.js.map": "/gitex/static/js/main.08280c3f.js.map",
+    "main.fa3b0d13.js.map": "/gitex/static/js/main.fa3b0d13.js.map",
     "787.98ac93bb.chunk.js.map": "/gitex/static/js/787.98ac93bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b41ebb00.css",
-    "static/js/main.08280c3f.js"
+    "static/js/main.fa3b0d13.js"
   ]
 }
